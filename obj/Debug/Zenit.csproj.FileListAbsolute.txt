@@ -1,0 +1,10 @@
+E:\zenit\smartis\bin\Zenit.dll
+E:\zenit\smartis\bin\Zenit.pdb
+E:\zenit\smartis\obj\Debug\Zenit.dll
+E:\zenit\smartis\obj\Debug\Zenit.pdb
+C:\Users\Ersin\Desktop\zenit\bin\Zenit.dll.config
+C:\Users\Ersin\Desktop\zenit\bin\Zenit.dll
+C:\Users\Ersin\Desktop\zenit\bin\Zenit.pdb
+C:\Users\Ersin\Desktop\zenit\obj\Debug\Zenit.csprojResolveAssemblyReference.cache
+C:\Users\Ersin\Desktop\zenit\obj\Debug\Zenit.dll
+C:\Users\Ersin\Desktop\zenit\obj\Debug\Zenit.pdb

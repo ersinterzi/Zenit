@@ -1,0 +1,10 @@
+D:\WebSites\ommerhotel\EntityReservation\bin\EntityReservation.dll
+D:\WebSites\ommerhotel\EntityReservation\bin\EntityReservation.pdb
+D:\WebSites\ommerhotel\EntityReservation\obj\Debug\ResolveAssemblyReference.cache
+D:\WebSites\ommerhotel\EntityReservation\obj\Debug\EntityReservation.dll
+D:\WebSites\ommerhotel\EntityReservation\obj\Debug\EntityReservation.pdb
+D:\ersin\smartis\obj\Debug\ResolveAssemblyReference.cache
+D:\ersin\smartis\bin\Smartis.dll
+D:\ersin\smartis\bin\Smartis.pdb
+D:\ersin\smartis\obj\Debug\Smartis.dll
+D:\ersin\smartis\obj\Debug\Smartis.pdb

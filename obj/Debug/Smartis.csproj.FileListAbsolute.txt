@@ -1,0 +1,15 @@
+D:\ersin\smartis\bin\Smartis.dll
+D:\ersin\smartis\bin\Smartis.pdb
+D:\ersin\smartis\obj\Debug\ResolveAssemblyReference.cache
+D:\ersin\smartis\obj\Debug\Smartis.dll
+D:\ersin\smartis\obj\Debug\Smartis.pdb
+F:\ersin\smartis\bin\Smartis.dll
+F:\ersin\smartis\bin\Smartis.pdb
+F:\ersin\smartis\obj\Debug\Smartis.dll
+F:\ersin\smartis\obj\Debug\Smartis.pdb
+F:\ersin\smartis\obj\Debug\Smartis.csprojResolveAssemblyReference.cache
+E:\zenit\smartis\bin\Zenit.dll
+E:\zenit\smartis\bin\Zenit.pdb
+E:\zenit\smartis\obj\Debug\Smartis.csprojResolveAssemblyReference.cache
+E:\zenit\smartis\obj\Debug\Zenit.dll
+E:\zenit\smartis\obj\Debug\Zenit.pdb
